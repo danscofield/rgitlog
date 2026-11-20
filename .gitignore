@@ -1,0 +1,13 @@
+# Built binary (make build)
+/rgitlog
+
+# Go test and coverage output
+*.test
+*.out
+coverage.*
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
